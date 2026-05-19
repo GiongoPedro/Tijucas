@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://estudiotijucas.com.br/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://estudiotijucas.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://estudiotijucas.com.br/en/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://estudiotijucas.com.br/sobre/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://estudiotijucas.com.br/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://estudiotijucas.com.br/en/sobre/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://estudiotijucas.com.br/tesouros/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://estudiotijucas.com.br/tesouros/"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://estudiotijucas.com.br/en/tesouros/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://estudiotijucas.com.br/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://estudiotijucas.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://estudiotijucas.com.br/en/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://estudiotijucas.com.br/en/sobre/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://estudiotijucas.com.br/sobre/"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://estudiotijucas.com.br/en/sobre/"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://estudiotijucas.com.br/en/tesouros/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://estudiotijucas.com.br/tesouros/"/>
+    <xhtml:link rel="alternate" hreflang="en"    href="https://estudiotijucas.com.br/en/tesouros/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
