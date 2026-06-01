@@ -58,7 +58,10 @@
   <header class="row">
     <ul class="noselect">
       <li class="size-3 clear">
-        <a href="index.html" class="brand-title-link">Pedro Giongo <span class="brand-sep">/</span> <span class="brand-title">Estudio Tijucas</span></a>
+        <a href="index.html" class="brand-title-link">
+          <span class="brand-logo-default">Pedro Giongo <span class="brand-sep">/</span> <span class="brand-title">Estudio Tijucas</span></span>
+          <span class="brand-logo-montagem">Pedro Giongo, edt.</span>
+        </a>
       </li>
       <li class="size-3 clear"><a href="tesouros/index.html">✺ Miscelâneas</a></li>
     </ul>
@@ -135,7 +138,7 @@
           </li>
           -->
           <li class="work-item" style="border-bottom: none; font-weight: bold; margin-top: 2.4em; margin-bottom: 2.4em;">
-            <a href="#montagem" data-target="montagem">
+            <a href="trabalhos/montagem.html">
               <span class="work-name">Montagem para Cinema ↗</span>
             </a>
           </li>
@@ -193,6 +196,11 @@
       function loadContent(targetId) {
         if (!targetId) return;
 
+        if (targetId === 'montagem') {
+          window.location.href = 'trabalhos/montagem.html';
+          return;
+        }
+
         // Caminho do arquivo baseado no ID
         var url = 'trabalhos/' + targetId + '.html';
 
@@ -223,7 +231,7 @@
             var langToggle = document.querySelector('.lang-toggle-fixed');
             if (langToggle) {
               if (targetId === 'montagem') {
-                langToggle.setAttribute('href', 'en/index.html#montagem');
+                langToggle.setAttribute('href', 'en/trabalhos/montagem.html');
               } else {
                 langToggle.setAttribute('href', 'en/index.html');
               }
