@@ -1,3 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <circle cx="50" cy="50" r="50" fill="#ff0000"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 100 100">
+  <!-- Generator: Adobe Illustrator 29.8.3, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #231f20;
+        font-family: NotoSansBamum-Regular, 'Noto Sans Bamum';
+        font-size: 128.16px;
+      }
+
+      .st1 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <circle class="st1" cx="50" cy="50" r="50"/>
+  <text class="st0" transform="translate(5.19 89.74)"><tspan x="0" y="0">𖦹</tspan></text>
 </svg>
